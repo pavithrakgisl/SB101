@@ -67,6 +67,7 @@
 
 	<build>
 		<plugins>
+<<<<<<< HEAD
 
 			<plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -77,6 +78,8 @@
                 </configuration>
             </plugin>
 
+=======
+>>>>>>> 6c01f675389569c8aeb648d69713af8148c74146
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
