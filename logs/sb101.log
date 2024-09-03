@@ -13,3 +13,51 @@
 *[INFO ]-- After method:Person com.kgisl.sb101.service.PersonServiceImpl.createPerson(Person)--
 *[INFO ]-- HikariPool-1 - Shutdown initiated...--
 *[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting Sb101ApplicationTests using Java 21.0.2 with PID 20984 (started by pavithra.v in C:\sb101)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb101 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started Sb101ApplicationTests in 13.456 seconds (process running for 17.309)--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting Sb101ApplicationTests using Java 21.0.2 with PID 4768 (started by pavithra.v in C:\sb101)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb101 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started Sb101ApplicationTests in 12.717 seconds (process running for 16.643)--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting Sb101ApplicationTests using Java 21.0.2 with PID 16764 (started by pavithra.v in C:\sb101)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb101 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started Sb101ApplicationTests in 8.804 seconds (process running for 14.043)--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting Sb101ApplicationTests using Java 21.0.2 with PID 7724 (started by pavithra.v in C:\sb101)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb101 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started Sb101ApplicationTests in 11.651 seconds (process running for 17.22)--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting Sb101ApplicationTests using Java 21.0.2 with PID 308 (started by pavithra.v in C:\sb101)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb101 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started Sb101ApplicationTests in 11.592 seconds (process running for 18.068)--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting Sb101ApplicationTests using Java 21.0.2 with PID 11976 (started by pavithra.v in C:\sb101)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb101 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started Sb101ApplicationTests in 10.391 seconds (process running for 17.681)--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--

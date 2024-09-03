@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kgisl</groupId>
-	<artifactId>sb1</artifactId>
+	<artifactId>sb101</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sb1</name>
+	<name>sb101</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -68,6 +68,15 @@
 	</dependencies>
 
 	<build>
+		<pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.jacoco</groupId>
+                    <artifactId>jacoco-maven-plugin</artifactId>
+                    <version>0.8.8</version>
+                </plugin>
+            </plugins>
+        </pluginManagement>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -82,6 +91,26 @@
                 <target>21</target>
             </configuration>
         </plugin>
+
+		<plugin>
+			<groupId>org.jacoco</groupId>
+			<artifactId>jacoco-maven-plugin</artifactId>
+			<executions>
+				<execution>
+					<goals>
+						<goal>prepare-agent</goal>
+					</goals>
+				</execution>
+				<execution>
+					<id>report</id>
+					<phase>test</phase>
+					<goals>
+						<goal>report</goal>
+					</goals>
+				</execution>
+			</executions>
+		</plugin>
+
 		</plugins>
 	</build>
 
